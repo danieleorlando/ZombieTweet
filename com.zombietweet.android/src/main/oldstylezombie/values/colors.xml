@@ -1,0 +1,7 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="float_label">#669900</color>
+    <color name="zombietweet_color">#669900</color>
+
+</resources>

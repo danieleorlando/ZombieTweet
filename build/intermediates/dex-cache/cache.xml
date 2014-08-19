@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Daniele\AndroidStudioProjects\ZombieTweet\com.zombietweet.android\build\intermediates\pre-dexed\debug\classes-99219c5a738b05647813f2b3c284b365613c0be2.jar"
+        jar="C:\Users\Daniele\AndroidStudioProjects\ZombieTweet\build\intermediates\exploded-aar\com.github.citux\datetimepicker\0.1.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="ef59a58c6b157d5cf6cb25e464ea7e156d629021"/>
+    <item
+        dex="C:\Users\Daniele\AndroidStudioProjects\ZombieTweet\com.zombietweet.android\build\intermediates\pre-dexed\debug\support-v4-19.1.0-b8723f007008377d7877560677baab4bca2b5d3f.jar"
+        jar="C:\Users\Daniele\AppData\Local\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="C:\Users\Daniele\AndroidStudioProjects\ZombieTweet\com.zombietweet.android\build\intermediates\pre-dexed\debug\gson-e60886ee717de36b92b555e9857ab86a3db88ae6.jar"
+        jar="C:\Users\Daniele\AndroidStudioProjects\ZombieTweet\com.zombietweet.android\libs\gson.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8"/>
+    <item
+        dex="C:\Users\Daniele\AndroidStudioProjects\ZombieTweet\com.zombietweet.android\build\intermediates\pre-dexed\debug\picasso-0e42b19bd60d25876cf3e83b2c05da3a04165a8a.jar"
+        jar="C:\Users\Daniele\AndroidStudioProjects\ZombieTweet\com.zombietweet.android\libs\picasso.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="74137f8d9aac26dd9463efe32271f2be8d41cda9"/>
+    <item
+        dex="C:\Users\Daniele\AndroidStudioProjects\ZombieTweet\com.zombietweet.android\build\intermediates\pre-dexed\debug\classes-fa8594cd394f11b636448e52e73ca7117f457cca.jar"
+        jar="C:\Users\Daniele\AndroidStudioProjects\ZombieTweet\build\intermediates\exploded-aar\com.etsy.android.grid\library\1.0.5\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="8218789edb56bdcfff7da48e892b37460fc707e2"/>
+    <item
+        dex="C:\Users\Daniele\AndroidStudioProjects\ZombieTweet\com.zombietweet.android\build\intermediates\pre-dexed\debug\twitter4j-a9f8d3e10fa9b4e882e88ea3357ca000e4421542.jar"
+        jar="C:\Users\Daniele\AndroidStudioProjects\ZombieTweet\com.zombietweet.android\libs\twitter4j.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="34138fe734b03ae6e9ef978b41359b5fb6467047"/>
+    <item
+        dex="C:\Users\Daniele\AndroidStudioProjects\ZombieTweet\com.zombietweet.android\build\intermediates\pre-dexed\debug\classes-9c3714292a01815adb4835c8cd7a8c66f380c32c.jar"
+        jar="C:\Users\Daniele\AndroidStudioProjects\ZombieTweet\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.0.1\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="f71a6822470c9eb659d4f4a6cb57b780b35f058b"/>
+    <item
+        dex="C:\Users\Daniele\AndroidStudioProjects\ZombieTweet\com.zombietweet.android\build\intermediates\pre-dexed\debug\support-v13-19.1.0-0d725f848d14cfd0212d8a3b7db763713ac2a641.jar"
+        jar="C:\Users\Daniele\AppData\Local\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v13\19.1.0\support-v13-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="6b852a232f642c75a7fdfc7212b841b8c8f8959c"/>
+
+</pre-dex-items>
